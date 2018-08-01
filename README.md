@@ -1,6 +1,6 @@
 # Database Design for Zillow Rental Housing Project
 ## Summary
-Zillow.com plans to provide custom solution for university students to search for apartments for rent. Students can look for apartments around the University and book an appointment. They can provide email address to get email confirmation. Zillow asks us to design data model to support this functionality. We have worked with key stakeholders to identify key requirements this database should support. We are required to define minimum data model to support sample use cases to capture user interactions. 
+Zillow.com plans to provide custom solution for university students to search for apartments for rent. Students can look for apartments around the University and book an appointment. They can provide email address to get email confirmation. Zillow asks us to design data model to support this functionality. We have worked with key stakeholders to identify key requirements this database should support. We are required to define minimum data model to support sample use cases in order to capture user interactions. 
 ### Business Goal
 This database provides real-time and accurate housing information for students in their online housing search, particularly for university apartment rental market. The goal is to make students find their desirable apartment faster and more effective in a timely basis, thus optimizing their housing search experience on Zillow.com.
 
