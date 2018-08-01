@@ -25,4 +25,4 @@ Following are our database design process:
     - Write DDL statements to create database in SQL language
     - Implement indexing and clustering using the outcome of Physical Design
 ## Future Potentials
-We believe this succint yet efficient database model that we structured for Zillow.com will solve their current problems of high latency of the searching and loading speed, which will lead to bad user experience. Furthermore, a high-integrity database model will be helpful for them to track, collect and analyze data along the time. This will optimize students' online housing searching experience, specifically for university apartment rental market. 
+We believe this succint yet efficient database model that we structured for Zillow.com will solve their current problems of high latency of the web searching and loading speed due to large database, which will lead to bad user experience. Furthermore, a high-integrity database model will be helpful for them to track, collect and analyze data along the time. This will optimize students' online housing searching experience, specifically for university apartment rental market. 
