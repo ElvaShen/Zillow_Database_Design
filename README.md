@@ -9,6 +9,7 @@ This database provides real-time and accurate housing information for students i
 * Assume distance from university, days since posted is available as attributes at appropriate level.
 
 Data Model
+
 <img width="575" alt="data model" src="https://user-images.githubusercontent.com/41976548/43610503-29485c06-965b-11e8-920c-6102561cc6be.png">
 
 ## Database Design
